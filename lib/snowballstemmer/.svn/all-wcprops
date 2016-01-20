@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer
+END
+swedish_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/swedish_stemmer.py
+END
+danish_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/danish_stemmer.py
+END
+dutch_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/dutch_stemmer.py
+END
+german_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/german_stemmer.py
+END
+basestemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/basestemmer.py
+END
+porter_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/porter_stemmer.py
+END
+hungarian_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/hungarian_stemmer.py
+END
+italian_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/italian_stemmer.py
+END
+russian_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/russian_stemmer.py
+END
+norwegian_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/norwegian_stemmer.py
+END
+english_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/english_stemmer.py
+END
+turkish_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/turkish_stemmer.py
+END
+finnish_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/finnish_stemmer.py
+END
+portuguese_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/portuguese_stemmer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/__init__.py
+END
+romanian_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/romanian_stemmer.py
+END
+spanish_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/spanish_stemmer.py
+END
+among.py
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/among.py
+END
+french_stemmer.py
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Olympus/!svn/ver/1431/VXT.Olympus.NoneDotNETSource/trunk/AnalysisEngineJava/AnalysisServiceResource/nltk_additional/snowballstemmer/french_stemmer.py
+END
